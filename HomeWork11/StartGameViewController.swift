@@ -7,11 +7,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-
+class StartGameViewController: UIViewController {
+    
+    // MARK: - Override properties
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+    
     }
 
 

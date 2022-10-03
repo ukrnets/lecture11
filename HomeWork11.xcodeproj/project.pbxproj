@@ -9,21 +9,23 @@
 /* Begin PBXBuildFile section */
 		7570F26D28EAECE90063A131 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7570F26C28EAECE90063A131 /* AppDelegate.swift */; };
 		7570F26F28EAECE90063A131 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7570F26E28EAECE90063A131 /* SceneDelegate.swift */; };
-		7570F27128EAECE90063A131 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7570F27028EAECE90063A131 /* ViewController.swift */; };
+		7570F27128EAECE90063A131 /* StartGameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7570F27028EAECE90063A131 /* StartGameViewController.swift */; };
 		7570F27428EAECE90063A131 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7570F27228EAECE90063A131 /* Main.storyboard */; };
 		7570F27628EAECEA0063A131 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7570F27528EAECEA0063A131 /* Assets.xcassets */; };
 		7570F27928EAECEA0063A131 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7570F27728EAECEA0063A131 /* LaunchScreen.storyboard */; };
+		7570F28128EB193B0063A131 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7570F28028EB193B0063A131 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		7570F26928EAECE90063A131 /* HomeWork11.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeWork11.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7570F26C28EAECE90063A131 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7570F26E28EAECE90063A131 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		7570F27028EAECE90063A131 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		7570F27028EAECE90063A131 /* StartGameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartGameViewController.swift; sourceTree = "<group>"; };
 		7570F27328EAECE90063A131 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7570F27528EAECEA0063A131 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7570F27828EAECEA0063A131 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7570F27A28EAECEA0063A131 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7570F28028EB193B0063A131 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +60,8 @@
 			children = (
 				7570F26C28EAECE90063A131 /* AppDelegate.swift */,
 				7570F26E28EAECE90063A131 /* SceneDelegate.swift */,
-				7570F27028EAECE90063A131 /* ViewController.swift */,
+				7570F27028EAECE90063A131 /* StartGameViewController.swift */,
+				7570F28028EB193B0063A131 /* SecondViewController.swift */,
 				7570F27228EAECE90063A131 /* Main.storyboard */,
 				7570F27528EAECEA0063A131 /* Assets.xcassets */,
 				7570F27728EAECEA0063A131 /* LaunchScreen.storyboard */,
@@ -138,7 +141,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7570F27128EAECE90063A131 /* ViewController.swift in Sources */,
+				7570F28128EB193B0063A131 /* SecondViewController.swift in Sources */,
+				7570F27128EAECE90063A131 /* StartGameViewController.swift in Sources */,
 				7570F26D28EAECE90063A131 /* AppDelegate.swift in Sources */,
 				7570F26F28EAECE90063A131 /* SceneDelegate.swift in Sources */,
 			);
